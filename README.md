@@ -2,8 +2,9 @@
 
 ## Prerequisites
 
-NodeJs Installed : "https://nodejs.org/en/download/"
-NPM package manager
+NodeJs Installed : "https://nodejs.org/en/download/" ( With NPM package manager)
+
+
 
 Angular CLI: "npm install -g @angular/cli"
 
